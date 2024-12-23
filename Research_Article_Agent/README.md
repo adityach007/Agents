@@ -25,14 +25,14 @@ The project is composed of several agents, each with distinct roles:
 
 **1. Content Planner Agent:**
 
-This agent analyzes the input data and generates a structured plan for the content.
+- This agent analyzes the input data and generates a structured plan for the content.
 
 **2. Content Writer Agent:**
 
-The writer agent generates the main content of the article based on the plan produced by the planner.
+- The writer agent generates the main content of the article based on the plan produced by the planner.
 
 **3. Content Editor Agent:**
 
-The editor agent refines the generated content, making it more coherent, grammatically correct, and suitable for the intended audience.
+- The editor agent refines the generated content, making it more coherent, grammatically correct, and suitable for the intended audience.
 
 Each agent is designed to automate specific stages of content creation, following a structured flow to ensure seamless coordination between the agents.
