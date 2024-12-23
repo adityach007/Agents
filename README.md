@@ -7,5 +7,3 @@ The content in this repository aims to demonstrate different approaches to build
 
 Feel free to explore, contribute, or use these implementations in your own projects!
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
