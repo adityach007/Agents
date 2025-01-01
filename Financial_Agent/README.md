@@ -48,7 +48,7 @@ A sophisticated multi-agent system built using Phidata Framework that combines w
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AIcheetah-code/AI-Agents/tree/main/Financial-agent
+git clone https://github.com/adityach007/Agents/tree/main/Financial_Agent
 cd financial-analysis-agent
 ```
 
